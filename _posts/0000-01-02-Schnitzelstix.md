@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Heil Hitler
+Konig im luftrevier
 Use the left arrow to go back!
